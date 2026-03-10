@@ -1,5 +1,9 @@
 ## 🗓️ Projektthema: Einen Experten-Workshop planen (Hintergrund)
-  
+  Du organisierst einen fiktiven Fachtag zum Thema **„Chemiegeschichte am Standort Leuna"**. Dafür musst du:
+- gezielt im Internet recherchieren,
+- ein eigenes E-Mail-Konto für das Projekt einrichten,
+- E-Mail-Filter (automatische Sortierregeln) einrichten,
+- professionell kommunizieren und Dateien sicher versenden.
 ## ⚙️ Ein E-Mail-Konto einrichten und automatisieren.
 ### 📬 Aufgabe 1: Ein neues E-Mail-Konto erstellen
 ### ✍️ Aufgabe 2: Eine E-Mail-Signatur einrichten
