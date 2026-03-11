@@ -16,6 +16,7 @@ Um eine erneute Zustellung zu veranlassen und Strafgebühren zu vermeiden, müss
 4=(Verdächtige Anfrage – Unternehmen „Innovations-GmbH“ hat kaum das Büro gewechselt...]
 
 [Link zu **http://bit.ly/dhl-paket-neu-senden**] 
+
 5=(HTTP - nicht siechere Protokoll und //bit.ly/ es ist Falsche URL für DHL. Richtige URL : https://www.dhl.de/***.html ]
 
 ACHTUNG: **Wenn sie die Bestätigung nicht innerhalb von 24 Stunden vornehmen**, wird das Paket an den Absender zurückgesendet und es fallen Gebühren an.
